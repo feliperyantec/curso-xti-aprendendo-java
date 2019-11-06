@@ -14,6 +14,6 @@
         int idade = 23;
         boolean Solteiro = true;
 
-        System.out.println("Qual o nome:");
+        System.out.println("Qual o nome:" + nome);
     }
  }
