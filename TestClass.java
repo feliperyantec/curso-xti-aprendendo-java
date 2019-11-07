@@ -1,6 +1,6 @@
 public class TestClass {
 
-    public static long main(String[] args) {
+    public static void main(String[] args) {
         
         System.out.println("Hello");     
         return 10L;
